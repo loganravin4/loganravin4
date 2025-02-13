@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logan Ravinuthala</h1>
-<h3 align="center">An aspiring Engineer hoping to learn more about Embedded Software, Software Engineering, and Data Engineering</h3>
+<h3 align="center">An Honors Computer Engineering and Computer Science student at Northeastern University. An aspiring Engineer hoping to learn more about Embedded Software, Software Engineering, and Data Engineering</h3>
 
 - 🔭 I’m currently working on [AreWeThereYet?](https://github.com/loganravin4/AreWeThereYet-)
 
