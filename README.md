@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Logan Ravinuthala</h1>
 <h3 align="center">An Honors Computer Engineering and Computer Science student at Northeastern University. An aspiring Engineer hoping to learn more about Embedded Software, Software Engineering, and Data Engineering</h3>
 
-- 🔭 I’m currently working on [PersonalPortfolioManager](https://github.com/loganravin4/PersonalPortfolioManager.git)
+- 🔭 I’m currently working on [Premalytics](https://github.com/loganravin4/Premalytics.git)
 
 - 🌱 I’m currently learning **Springboot, MongoDB/Redis, AWS**
 
-- 🤝 I’m looking for help with [Pokémon Portfolio in ThreeJS (private)](https://github.com/loganravin4/Pokemon-Portfolio)
+- 🤝 I’m looking for help with [Lokédex](https://github.com/loganravin4/lokedex-portfolio.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/loganravin4](https://github.com/loganravin4)
 
