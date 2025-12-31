@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Logan Ravinuthala</h1>
 <h3 align="center">An Honors Computer Engineering and Computer Science student at Northeastern University. An aspiring Engineer hoping to learn more about Embedded Software, Software Engineering, and Data Engineering</h3>
 
-- 🔭 I’m currently working on [Premalytics](https://github.com/loganravin4/Premalytics.git)
+- 🔭 I’m currently working on [WANDR](https://github.com/pdsl2005/wandr.git)
 
-- 🌱 I’m currently learning **Springboot, MongoDB/Redis, AWS**
+- 🌱 I’m currently learning **Springboot & Machine Learning Techniques**
 
-- 🤝 I’m looking for help with [Lokédex](https://github.com/loganravin4/lokedex-portfolio.git)
+- 🤝 I’m looking for help with [Premalytics](https://github.com/loganravin4/Premalytics.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/loganravin4](https://github.com/loganravin4)
+- 👨‍💻 All of my projects are available at [Lokédex](https://loganravinuthala.dev/)
 
 - 📫 How to reach me **loganravin4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QxBbgytnosYKEYv4ak8E3J5Sfys_hldt/view?usp=drive_link](https://drive.google.com/file/d/1QxBbgytnosYKEYv4ak8E3J5Sfys_hldt/view?usp=drive_link)
+- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/14BIx7as2IG9QmSaGRe1zd9OPscSfavte/view?usp=sharing))
 
-- ⚡ Fun fact **I speed run Mario Kart Wii in my free time!**
+- ⚡ Fun fact **I speed run Mario Kart Wii!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
