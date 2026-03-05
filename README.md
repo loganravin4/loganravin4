@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logan Ravinuthala</h1>
 <h3 align="center">An Honors Computer Engineering and Computer Science student at Northeastern University. An aspiring Engineer hoping to learn more about Embedded Software, Software Engineering, and Data Engineering</h3>
 
-- 🔭 I’m currently working on [WANDR](https://github.com/pdsl2005/wandr.git)
+- 🔭 I’m currently working on [Inside Athletics](https://github.com/GenerateNU/inside-athletics.git)
 
 - 🌱 I’m currently learning **Springboot & Machine Learning Techniques**
 
