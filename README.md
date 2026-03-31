@@ -22,7 +22,7 @@
 
 <p align="center">
 <a>
-  <img height=200 src="https://github-readme-stats-chi-five-96.vercel.app/api?username=b-at-neu&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&rank_icon=percentile"/>
+  <img height=200 src="https://github-readme-stats-chi-five-96.vercel.app/api?username=loganravin4&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&rank_icon=percentile"/>
 </a>
 <a>
   <img height=200 src="https://github-readme-stats-chi-five-96.vercel.app/api/top-langs/?username=b-at-neu&theme=radical&layout=donut"/>
