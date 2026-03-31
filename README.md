@@ -11,13 +11,22 @@
 
 - 📫 How to reach me **loganravin4@gmail.com**
 
-- 📄 Know about my experiences ([Resume](https://drive.google.com/file/d/14BIx7as2IG9QmSaGRe1zd9OPscSfavte/view?usp=sharing))
+- 📄 Learn about my experiences ([Resume](https://drive.google.com/file/d/14BIx7as2IG9QmSaGRe1zd9OPscSfavte/view?usp=sharing))
 
 - ⚡ Fun fact **I speed run Mario Kart Wii!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/logan-ravinuthala-634058293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-ravinuthala-634058293" height="30" width="40" /></a>
+</p>
+
+<p align="center">
+<a>
+  <img height=200 src="https://github-readme-stats-chi-five-96.vercel.app/api?username=b-at-neu&show_icons=true&theme=radical&show=prs_merged,prs_merged_percentage&rank_icon=percentile"/>
+</a>
+<a>
+  <img height=200 src="https://github-readme-stats-chi-five-96.vercel.app/api/top-langs/?username=b-at-neu&theme=radical&layout=donut"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
